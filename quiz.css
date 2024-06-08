@@ -1,0 +1,76 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.n-icon {
+    position: absolute;
+    top: 1173px;
+    left: 40px;
+    width: 621px;
+    height: 880px;
+    object-fit: cover;
+}
+.n-icon1 {
+    position: absolute;
+    top: 451px;
+    left: 40px;
+    width: 895px;
+    height: 611.6px;
+    object-fit: contain;
+}
+.n-icon2 {
+    position: absolute;
+    top: 2173px;
+    left: 291px;
+    width: 858px;
+    height: 1355px;
+    object-fit: cover;
+}
+.header-icon {
+    position: absolute;
+    top: 19px;
+    left: 57px;
+    width: 88px;
+    height: 97px;
+    object-fit: cover;
+}
+.arrow-icon {
+    position: absolute;
+    top: 19px;
+    left: 1307px;
+    width: 88px;
+    height: 97px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.n-icon3 {
+    position: absolute;
+    top: 1252px;
+    left: 732px;
+    width: 672px;
+    height: 636.7px;
+    object-fit: contain;
+}
+.prelim-midterm {
+    position: absolute;
+    top: calc(50% - 1630.5px);
+    left: calc(50% - 189px);
+    font-weight: 600;
+    display: inline-block;
+    width: 379px;
+    height: 48px;
+}
+.quiz {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #34bbcd 18.78%, #18cce4 55.18%, #c8d9dc);
+    height: 3699px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 27px;
+    color: #fff;
+    font-family: K2D;
+}
+
