@@ -341,8 +341,8 @@ body {
 }
 .skill-2 {
     position: absolute;
-    top: calc(50% - 19px);
-    left: calc(50% - 120px);
+    top: calc(50% - 27px);
+    left: calc(50% - 111px);
     font-weight: 500;
     display: inline-block;
     width: 234px;
