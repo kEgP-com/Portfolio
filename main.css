@@ -223,7 +223,7 @@ body {
 .css3-icon {
     position: absolute;
     top: calc(50% + 24.5px);
-    left: calc(50% + 165.48px);
+    left: calc(50% + 160.48px);
     width: 98.6px;
     height: 100px;
     object-fit: cover;
@@ -231,7 +231,7 @@ body {
 .html-5-icon {
     position: absolute;
     top: calc(50% + 24.5px);
-    left: calc(50% - 42.81px);
+    left: calc(50% - 49.81px);
     width: 98.6px;
     height: 100px;
     object-fit: cover;
@@ -247,7 +247,7 @@ body {
 .java-icon {
     position: absolute;
     top: calc(50% + 17.5px);
-    left: calc(50% - 456.85px);
+    left: calc(50% - 470px);
     width: 98.6px;
     height: 100px;
     object-fit: cover;
@@ -255,7 +255,7 @@ body {
 .figma-icon {
     position: absolute;
     top: calc(50% + 17.5px);
-    left: calc(50% + 365.78px);
+    left: calc(50% + 369.78px);
     width: 98.6px;
     height: 100px;
     object-fit: cover;
