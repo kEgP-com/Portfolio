@@ -170,19 +170,6 @@ body {
     color: #031749;
     font-family: Inter;
 }
-.contact-info {
-    position: absolute;
-    top: calc(50% - 26px);
-    left: calc(50% - 235px);
-    font-size: 20px;
-    font-family: Poppins;
-    color: #000;
-    text-align: center;
-    display: inline-block;
-    width: 437px;
-    height: 140px;
-     font-family: K2D;
-}
 .experience-child {
     position: absolute;
     top: calc(50% + 5.5px);
@@ -963,3 +950,25 @@ body {
     font-size: inherit;
     color: inherit;
 }
+.contact-info {
+    position: absolute;
+    top: calc(50% - 34px);
+    left: calc(50% - 235px);
+    font-size: 15px;
+    font-family: K2D;
+    color: #000;
+    text-align: center;
+    display: inline-block;
+    width: 437px;
+    height: 148px;
+}
+.container-contact {
+    position: absolute;
+    top: -29px;
+    left: 65px;
+    box-shadow: 6px 6px 7px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    background: linear-gradient(90deg, #18cce4, #8fd9e3 38.27%, #d8e1e2 86.28%);
+    width: 943px;
+    height: 290px;
+    }
