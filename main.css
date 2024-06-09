@@ -170,6 +170,18 @@ body {
     color: #031749;
     font-family: Inter;
 }
+.contact-info {
+    position: absolute;
+    top: calc(50% - 26px);
+    left: calc(50% - 235px);
+    font-size: 15px;
+    font-family: Poppins;
+    color: #000;
+    text-align: center;
+    display: inline-block;
+    width: 437px;
+    height: 140px;
+}
 .experience-child {
     position: absolute;
     top: calc(50% + 5.5px);
