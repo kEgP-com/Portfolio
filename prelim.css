@@ -1,264 +1,236 @@
-
-body {
-    margin: 0;
-    line-height: normal;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
-
 .header-icon {
-    position: absolute;
-    top: 19px;
-    left: 57px;
-    width: 88px;
-    height: 97px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 2835px);
+  	left: calc(50% - 663px);
+  	width: 88px;
+  	height: 97px;
+  	object-fit: cover;
 }
 .arrow-icon {
-    position: absolute;
-    top: 19px;
-    left: 1307px;
-    width: 88px;
-    height: 97px;
-    object-fit: cover;
-    cursor: pointer;
+  	position: absolute;
+  	top: calc(50% - 2835px);
+  	left: calc(50% + 587px);
+  	width: 88px;
+  	height: 97px;
+  	object-fit: cover;
+  	cursor: pointer;
 }
 .icon {
-    position: absolute;
-    height: 100%;
-    top: 0%;
-    bottom: 0%;
-    left: calc(50% - 675.65px);
-    max-height: 100%;
-    width: 432.4px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 210.75px);
+  	left: calc(50% - 675.65px);
+  	width: 432.4px;
+  	height: 421.5px;
+  	object-fit: cover;
 }
 .icon1 {
-    position: absolute;
-    height: 100%;
-    top: 0%;
-    bottom: 0%;
-    left: calc(50% - 221.5px);
-    max-height: 100%;
-    width: 432.9px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 210.75px);
+  	left: calc(50% - 221.5px);
+  	width: 432.9px;
+  	height: 421.5px;
+  	object-fit: cover;
 }
 .icon2 {
-    position: absolute;
-    height: 100%;
-    top: 0%;
-    bottom: 0%;
-    left: calc(50% + 233.14px);
-    max-height: 100%;
-    width: 442.5px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 210.75px);
+  	left: calc(50% + 233.14px);
+  	width: 442.5px;
+  	height: 421.5px;
+  	object-fit: cover;
 }
 .prelim1 {
-    position: absolute;
-    height: 14.45%;
-    top: 0%;
-    bottom: 85.55%;
-    left: calc(50% - 726px);
-    width: 1351.3px;
+  	position: absolute;
+  	top: calc(50% - 1458px);
+  	left: calc(50% - 726px);
+  	width: 1351.3px;
+  	height: 421.5px;
 }
 .resume1-icon {
-    position: absolute;
-    height: 43.42%;
-    top: 20.92%;
-    bottom: 35.67%;
-    left: calc(50% - 722px);
-    max-height: 100%;
-    width: 933px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 848px);
+  	left: calc(50% - 722px);
+  	width: 933px;
+  	height: 1266px;
+  	object-fit: cover;
 }
 .resume2-icon {
-    position: absolute;
-    height: 23.83%;
-    top: 66.22%;
-    bottom: 9.95%;
-    left: calc(50% - 726px);
-    max-height: 100%;
-    width: 878px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% + 473px);
+  	left: calc(50% - 726px);
+  	width: 878px;
+  	height: 695px;
+  	object-fit: cover;
 }
 .heading-icon {
-    position: absolute;
-    height: 16.7%;
-    top: 24.38%;
-    bottom: 58.92%;
-    left: calc(50% + 175px);
-    max-height: 100%;
-    width: 438px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 747px);
+  	left: calc(50% + 175px);
+  	width: 438px;
+  	height: 487px;
+  	object-fit: cover;
 }
 .firstweb-icon {
-    position: absolute;
-    height: 12.86%;
-    top: 45.16%;
-    bottom: 41.98%;
-    left: calc(50% + 61px);
-    max-height: 100%;
-    width: 665px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 141px);
+  	left: calc(50% + 61px);
+  	width: 665px;
+  	height: 375px;
+  	object-fit: cover;
 }
 .paragraph-icon {
-    position: absolute;
-    height: 8.78%;
-    top: 91.22%;
-    bottom: 0%;
-    left: calc(50% - 726px);
-    max-height: 100%;
-    width: 1360px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% + 1202px);
+  	left: calc(50% - 726px);
+  	width: 1360px;
+  	height: 256px;
+  	object-fit: cover;
 }
 .paragraph2-icon {
-    position: absolute;
-    height: 13.85%;
-    top: 60.19%;
-    bottom: 25.96%;
-    left: calc(50% + 4px);
-    max-height: 100%;
-    width: 670px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% + 297px);
+  	left: calc(50% + 4px);
+  	width: 670px;
+  	height: 404px;
+  	object-fit: cover;
 }
 .prelim {
-    position: absolute;
-    height: 51.09%;
-    top: 35.74%;
-    bottom: 13.17%;
-    left: calc(50% - 677px);
-    width: 1452px;
+  	position: absolute;
+  	top: calc(50% - 814px);
+  	left: calc(50% - 677px);
+  	width: 1452px;
+  	height: 2916px;
 }
 .n-icon {
-    position: absolute;
-    top: 591px;
-    left: 56px;
-    width: 428px;
-    height: 481px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 2263px);
+  	left: calc(50% - 664px);
+  	width: 428px;
+  	height: 481px;
+  	object-fit: cover;
 }
 .n-icon1 {
-    position: absolute;
-    top: 517px;
-    left: 520px;
-    width: 428px;
-    height: 481px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 2337px);
+  	left: calc(50% - 200px);
+  	width: 428px;
+  	height: 481px;
+  	object-fit: cover;
 }
 .n-icon2 {
-    position: absolute;
-    top: 696px;
-    left: 984px;
-    width: 428px;
-    height: 481px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 2158px);
+  	left: calc(50% + 264px);
+  	width: 428px;
+  	height: 481px;
+  	object-fit: cover;
 }
 .n-icon3 {
-    position: absolute;
-    top: 1097px;
-    left: 214px;
-    width: 427px;
-    height: 482px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 1757px);
+  	left: calc(50% - 506px);
+  	width: 427px;
+  	height: 482px;
+  	object-fit: cover;
 }
 .n-icon4 {
-    position: absolute;
-    top: 1199px;
-    left: 687px;
-    width: 427px;
-    height: 481px;
-    object-fit: cover;
+  	position: absolute;
+  	top: calc(50% - 1655px);
+  	left: calc(50% - 33px);
+  	width: 427px;
+  	height: 481px;
+  	object-fit: cover;
 }
 .act-1 {
-    position: absolute;
-    top: 427px;
-    left: 48.19px;
-    font-weight: 800;
-    display: inline-block;
-    width: 432.5px;
-    height: 85.7px;
-    text-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
-    transform:  rotate(0.1deg);
-    transform-origin: 0 0;
+  	position: absolute;
+  	top: calc(50% - 2427px);
+  	left: calc(50% - 671.81px);
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 432.5px;
+  	height: 85.7px;
+  	text-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
+  	transform:  rotate(0.1deg);
+  	transform-origin: 0 0;
 }
 .act-2 {
-    position: absolute;
-    top: 1876px;
-    left: 42.19px;
-    font-weight: 800;
-    display: inline-block;
-    width: 432.5px;
-    height: 85.7px;
-    text-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
-    transform:  rotate(0.1deg);
-    transform-origin: 0 0;
+  	position: absolute;
+  	top: calc(50% - 978px);
+  	left: calc(50% - 677.81px);
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 432.5px;
+  	height: 85.7px;
+  	text-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
+  	transform:  rotate(0.1deg);
+  	transform-origin: 0 0;
 }
 .act-assignment-3 {
-    position: absolute;
-    top: 2519px;
-    left: 40.19px;
-    font-weight: 800;
-    display: inline-block;
-    width: 1073.9px;
-    height: 85.7px;
-    text-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
-    transform:  rotate(0.1deg);
-    transform-origin: 0 0;
+  	position: absolute;
+  	top: calc(50% - 335px);
+  	left: calc(50% - 679.81px);
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 1073.9px;
+  	height: 85.7px;
+  	text-shadow: 0px 4px 23px rgba(0, 0, 0, 0.25);
+  	transform:  rotate(0.1deg);
+  	transform-origin: 0 0;
 }
 .prelim2 {
-    width: 100px;
-    position: relative;
-    font-weight: 600;
-    display: inline-block;
-    height: 36px;
-    flex-shrink: 0;
-    cursor: pointer;
+  	width: 100px;
+  	position: relative;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 36px;
+  	flex-shrink: 0;
+  	cursor: pointer;
 }
 .midterm {
-    position: relative;
-    font-weight: 600;
+  	position: relative;
+  	font-weight: 600;
 }
 .finals {
-    width: 104px;
-    position: relative;
-    font-weight: 600;
-    display: inline-block;
-    height: 35px;
-    flex-shrink: 0;
-    cursor: pointer;
+  	width: 104px;
+  	position: relative;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 35px;
+  	flex-shrink: 0;
+  	cursor: pointer;
 }
 .prelim-parent {
-    position: absolute;
-    top: calc(50% - 18px);
-    left: calc(50% - 245px);
-    width: 490px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
+  	position: absolute;
+  	top: calc(50% - 18px);
+  	left: calc(50% - 245px);
+  	width: 490px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 20px;
 }
 .header {
-    position: absolute;
-    top: calc(50% - 2666px);
-    left: calc(50% - 243px);
-    width: 490px;
-    height: 36px;
-    font-size: 27px;
+  	position: absolute;
+  	top: calc(50% - 2666px);
+  	left: calc(50% - 243px);
+  	width: 490px;
+  	height: 36px;
+  	font-size: 27px;
 }
 .prelim-lab {
-    width: 100%;
-    position: relative;
-    background: linear-gradient(180deg, #34bbcd 18.78%, #18cce4 55.18%, #c8d9dc);
-    height: 5708px;
-    overflow: hidden;
-    text-align: left;
-    font-size: 65px;
-    color: #fff;
-    font-family: K2D;
+  	width: 100%;
+  	position: relative;
+  	background: linear-gradient(180deg, #34bbcd 18.78%, #18cce4 55.18%, #c8d9dc);
+  	height: 5708px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 65px;
+  	color: #fff;
+  	font-family: K2D;
 }
+
+
 
 .prelim-parent {
     display: flex;
