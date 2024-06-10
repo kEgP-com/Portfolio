@@ -2,6 +2,10 @@
 body {
     margin: 0;
     line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .header-icon {
